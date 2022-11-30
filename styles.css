@@ -1,1 +1,13 @@
-<link rel="icon" type="image/x-icon" href="/cat.ico">
+
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+.moomtown {
+  background-image: url("/IMG_4178.JPG");
+  height: 100%; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
